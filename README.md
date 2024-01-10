@@ -1,6 +1,7 @@
 APP CLIMA
 
 Tecnologias usadas : HTML5, CSS3 , JavaScript, Jquery
+
 Deploy : https://web-clima-fawn.vercel.app/
 
 El pryecto "app clima" constiste en mostar el clima de las ciudades que el usuario elija.
