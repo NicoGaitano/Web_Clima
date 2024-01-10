@@ -1,6 +1,6 @@
 APP CLIMA
 
-Tecnologias usadas : HTML5, CSS3 , JavaScript, Jquery
+Tecnologias utilizadas : HTML5, CSS3 , JavaScript, Jquery.
 
 Deploy : https://web-clima-fawn.vercel.app/
 
